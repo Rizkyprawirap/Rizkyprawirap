@@ -1,11 +1,13 @@
-Hi there 👋
+<h1>Hi there 👋</h1>
+I'm a student at Binus University majoring in Computer Science!
 
-I am currently a student at Binus University majoring in Computer Science!
-I’m currently learning Firebase, Golang, Javascript, Java, MYSQL, MongoDB and SQL Server.
+<li><b>Intern Backend Developer</b> in <a href="https://shintavr.com/">ShintaVR</a></li>
+<h1>About me</h1>
 
-THIS IS MORE INFORMATION ABOUT ME :)
 
-linkedin.com/in/rizky-prawira-putra
+I’m currently exploring about Javascript, Golang also interested with web3.0 and Service API
+
+<p>Here is more information about me => linkedin.com/in/rizky-prawira-putra</p>
 
 <h1>Technology</h1>
 <b>Frontend</b>
