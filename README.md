@@ -1,7 +1,7 @@
 <h1>Hello World!</h1>
-I'm a student at Binus University majoring in Computer Science!
+A computer science student at Binus University majoring <b>Database System</b>.
 
-<li><b>Intern Backend Developer</b> in <a href="https://shintavr.com/">ShintaVR</a></li>
+<li><b>Intern Backend Developer</b> in <a href="https://shintavr.com/">ShintaVR</a>.</li>
 <h1>About me</h1>
 
 
