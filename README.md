@@ -1,4 +1,4 @@
-<h1>Hi there 👋</h1>
+<h1>Hello World!</h1>
 I'm a student at Binus University majoring in Computer Science!
 
 <li><b>Intern Backend Developer</b> in <a href="https://shintavr.com/">ShintaVR</a></li>
