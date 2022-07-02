@@ -25,5 +25,5 @@ I’m currently exploring about Javascript, Golang also interested with web3.0 a
   <li>MySQL</li>
   <li>PostgreSQL</li>
   <li>MongoDB</li>
-  <li>IPFS</li>
+  <li>IPFS(Web3.Storage)</li>
 </ul>
