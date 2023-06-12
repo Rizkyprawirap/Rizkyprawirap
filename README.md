@@ -5,7 +5,7 @@ A computer science student at Binus University majoring <b>Database System</b>.
 <h2>About me</h2>
 
 
-I’m currently exploring about Javascript, Golang also interested with web3.0 and Service API
+I’m currently exploring about Typescript, Golang, Web3.0 also backend architecture.
 
 <p>Here is more information about me => linkedin.com/in/rizky-prawira-putra</p>
 
