@@ -16,7 +16,7 @@ I’m currently exploring about Javascript, Golang also interested with web3.0 a
 </ul>
 <b>Backend</b>
 <ul>
-  <li>Node Js (Express, Firebase, Web3js)</li>
+  <li>NodeJs (Express, Firebase, Web3js, Typescript, Javascript)</li>
   <li>Golang (Gin)</li>
 </ul>
 <b>Database</b>
