@@ -8,7 +8,7 @@ A computer science student at Binus University majoring <b>Database System</b>.
 
 I’m currently exploring about Typescript, Golang, Web3.0 also backend architecture.
 
-<p>Here is more information about me => linkedin.com/in/rizky-prawira-putra</p>
+<p>Here is more information about me => <a href="https://linkedin.com/in/rizky-prawira-putra">My LinkedIn</a></p>
 
 <h2>Technology</h2>
 <b>Frontend</b>
