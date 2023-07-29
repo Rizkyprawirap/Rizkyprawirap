@@ -1,7 +1,8 @@
 <h1>Hello World!</h1>
 A computer science student at Binus University majoring <b>Database System</b>.
 
-<li><b>Intern Backend Developer</b> in <a href="https://shintavr.com/">ShintaVR</a>.</li>
+<li><b>Intern Backend Developer</b> at <a href="https://shintavr.com/">ShintaVR</a>.</li>
+<li><b>Junior Backend Developer</b> at <a href="https://www.riddlestory.com/">Riddlestory</a>.</li>
 <h2>About me</h2>
 
 
