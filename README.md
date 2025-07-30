@@ -4,16 +4,16 @@ Hey there! I'm Rizky Prawira, but you can call me Rizky.
 I'm a passionate developer who loves building cool things with code, coffee, and a sprinkle of nerdiness.
 
 ## 🚀 Tech Stack
-- 🟩 Node.js (Express.js)
-- 🟦 TypeScript
-- 🍃 MongoDB
-- 🐘 PostgreSQL
-- 🧠 Redis
-- 🦾 BullMQ
-- ⏰ Cronjob automation
-- 🦦 Golang (Gin)
-- ☁️ Google Cloud Platform: Cloud Run, Pub/Sub, Cloud Scheduler (cronjob), Firestore
-- 🪣 AWS S3
+🟩 Node.js (Express.js)
+🟦 TypeScript
+🍃 MongoDB
+🐘 PostgreSQL
+🧠 Redis
+🦾 BullMQ
+⏰ Cronjob automation
+🦦 Golang (Gin)
+☁️ Google Cloud Platform: Cloud Run, Pub/Sub, Cloud Scheduler (cronjob), Firestore
+🪣 AWS S3
 
 ## 🌱 About Me
 
