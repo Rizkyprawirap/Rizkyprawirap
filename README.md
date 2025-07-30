@@ -1,28 +1,33 @@
-<h1>Hello World!</h1>
-A computer science student at Binus University majoring <b>Database System</b>.
+# 👨‍💻 WHOAMI
 
-<li><b>Intern Backend Developer</b> at <a href="https://shintavr.com/">ShintaVR</a>.</li>
-<li><b>Junior Backend Developer</b> at <a href="https://www.riddlestory.com/">Riddlestory</a>.</li>
-<h2>About me</h2>
+Hey there! I'm Rizky Prawira, but you can call me Rizky.  
+I'm a passionate developer who loves building cool things with code, coffee, and a sprinkle of nerdiness.
 
+## 🚀 Tech Stack
+- 🟩 Node.js (Express.js)
+- 🟦 TypeScript
+- 🍃 MongoDB
+- 🐘 PostgreSQL
+- 🧠 Redis
+- 🦾 BullMQ
+- ⏰ Cronjob automation
+- 🦦 Golang (Gin)
+- ☁️ Google Cloud Platform: Cloud Run, Pub/Sub, Cloud Scheduler (cronjob), Firestore
+- 🪣 AWS S3
 
-I’m currently exploring about Typescript, Golang, Web3.0 also backend architecture.
+## 🌱 About Me
 
-<p>Here is more information about me => <a href="https://linkedin.com/in/rizky-prawira-putra">My LinkedIn</a></p>
+- Always tinkering with scalable backends and distributed systems.
+- I believe in automating the boring stuff (and then automating the automation).
+- Prefer clean code, clever solutions, and well-named variables.
+- Proud member of the “It works on my machine” club.
 
-<h2>Technology</h2>
-<b>Frontend</b>
-<ul>
-  <li>React Js</li>
-</ul>
-<b>Backend</b>
-<ul>
-  <li>NodeJs (Express, Firebase, Web3js, Typescript, Javascript)</li>
-  <li>Golang (Gin)</li>
-</ul>
-<b>Database</b>
-<ul>
-  <li>PostgreSQL</li>
-  <li>MongoDB</li>
-  <li>IPFS(Web3.Storage)</li>
-</ul>
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/rizky-prawira-putra/)
+
+> "Keep learning because I'm a machine."
+
+---
+
+![Code, coffee, repeat!](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
